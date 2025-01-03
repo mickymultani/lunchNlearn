@@ -158,8 +158,8 @@ metaboss --version
   "name": "LunchNLearn",
   "symbol": "LNL",
   "description": "A fun fungible token for our lunch and learn",
-  "image": "ipfs://bafkreihashOfYourImage",
-  "external_url": "https://mylunchandlearn.example.com",
+  "image": "pinata image url here",
+  "external_url": "your project site url here",
   "attributes": [],
   "properties": {
     "category": "SPL Token",
