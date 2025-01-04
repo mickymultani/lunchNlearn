@@ -1,6 +1,6 @@
 # 🚀 Create Your Own SPL Token on Solana
 
-A comprehensive guide to creating and managing your own token on the Solana blockchain using SPL Token standard.
+Lets create and manage your own token on the Solana blockchain using SPL Token standard.
 
 ## 📋 Prerequisites
 
