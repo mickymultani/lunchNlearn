@@ -95,6 +95,8 @@ solana config get
 
 ### 4. Fund Your Wallet
 
+### Use Quicknode Solana Faucet
+
 ```bash
 # Request devnet SOL
 solana airdrop 1
